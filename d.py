@@ -1,0 +1,1 @@
+print('d.py 파일 생성 - cheng80')
